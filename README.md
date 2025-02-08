@@ -1,7 +1,7 @@
 # DNS Stress Tool
 
 ## ⚠ Yasal Uyarı
-Bu script **yalnızca** eğitim ve güvenlik testleri amacıyla kullanılmalıdır.  
+Bu script **yalnızca** eğitim ve güvenlik(educational and security) testleri amacıyla kullanılmalıdır.  
 **Bu aracı kötü amaçlı aktiviteler için kullanmayın.** Üçüncü taraf sistemlere izinsiz kullanım, yasa dışı olabilir.
 
 ## 📌 Özellikler
